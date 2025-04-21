@@ -16,5 +16,9 @@ NIS2301_2024-2025-1
 |
 ├── image/                   # 图片
 ├── pdf/                     # PDF
+├── Zhang's PPT/
 └── scripts/
 ```
+
+## Better Preview
+- [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) is recommended for better preview.
